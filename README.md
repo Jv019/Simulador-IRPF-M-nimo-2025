@@ -1,4 +1,4 @@
-# Simulador-IRPF-M-nimo-2025
+# Simulador-IRPF-Minimo-2025
 Simulador IRPF Mínimo 2025
 <!DOCTYPE html>
 <html lang="pt-BR">
